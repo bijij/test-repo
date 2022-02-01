@@ -1,1 +1,1 @@
-print('this imported!')
+Foo = 3
