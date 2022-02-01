@@ -1,5 +1,8 @@
 [tool.poetry]
 name = "test-package"
+packages = [
+    { include = "test" }
+]
 description = "A test python package."
 authors = ["Joshua Butt <josh@joshb.in>"]
 version = "0.1.0a"
