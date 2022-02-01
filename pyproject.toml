@@ -10,7 +10,7 @@ version = "0.1.0a"
 [tool.poetry.dependencies]
 python = "^3.7"
 
-[tool.poetry.plugins."git-auto-version"]
+# [tool.poetry.plugins."git-auto-version"]
 
 [tool.black]
 line-length = 125
