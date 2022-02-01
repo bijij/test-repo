@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "test-package"
 packages = [
-    { include = "test" }
+    { include = "my_test_repo" }
 ]
 description = "A test python package."
 authors = ["Joshua Butt <josh@joshb.in>"]
